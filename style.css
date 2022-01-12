@@ -1,0 +1,22 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    display: flex;
+    align-self: stretch;
+}
+
+.automargin{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.w-400{
+    width: 400px;
+}
